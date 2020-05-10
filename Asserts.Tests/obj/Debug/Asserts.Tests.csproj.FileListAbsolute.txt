@@ -1,0 +1,13 @@
+D:\Applications\C#\Unit Testing\Unit_Test_6\Asserts.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Applications\C#\Unit Testing\Unit_Test_6\Asserts.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Applications\C#\Unit Testing\Unit_Test_6\Asserts.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Applications\C#\Unit Testing\Unit_Test_6\Asserts.Tests\bin\Debug\Asserts.Tests.dll
+D:\Applications\C#\Unit Testing\Unit_Test_6\Asserts.Tests\bin\Debug\Asserts.Tests.pdb
+D:\Applications\C#\Unit Testing\Unit_Test_6\Asserts.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Applications\C#\Unit Testing\Unit_Test_6\Asserts.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Applications\C#\Unit Testing\Unit_Test_6\Asserts.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Applications\C#\Unit Testing\Unit_Test_6\Asserts.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Applications\C#\Unit Testing\Unit_Test_6\Asserts.Tests\obj\Debug\Asserts.Tests.csprojAssemblyReference.cache
+D:\Applications\C#\Unit Testing\Unit_Test_6\Asserts.Tests\obj\Debug\Asserts.Tests.csproj.CopyComplete
+D:\Applications\C#\Unit Testing\Unit_Test_6\Asserts.Tests\obj\Debug\Asserts.Tests.dll
+D:\Applications\C#\Unit Testing\Unit_Test_6\Asserts.Tests\obj\Debug\Asserts.Tests.pdb
